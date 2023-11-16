@@ -1,0 +1,12 @@
+def my_function():
+    return 9+7
+  
+  
+from math import*
+print ( my_function())
+
+def add_numbers(num1,num2):
+   return num1+num2
+num1 = int(input('Enter first number:'))
+num2 = int(input('Enter second number: ') )
+print(add_numbers(num1, num2))  

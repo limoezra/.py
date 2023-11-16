@@ -1,0 +1,7 @@
+three_numbers = (1, 2, 3)
+print(three_numbers)
+print(three_numbers[0])
+print(type(three_numbers))
+strings = ('home', 'land ', 'earth')
+boo = (True,False,True)
+print(type(three_numbers))
